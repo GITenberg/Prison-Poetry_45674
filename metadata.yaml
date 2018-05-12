@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '43408'
     url: http://www.gutenberg.org/2009/agents/43408
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45674#Prison-Poetry
 gutenberg_issued: '2014-05-17'
 gutenberg_type: Text
 identifiers:
